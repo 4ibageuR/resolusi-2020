@@ -3,4 +3,8 @@ baca buku
 * bulughul marom
 * biographi empat mahzab
 * database design all
+* sikat
 ngaji 1 halama satu hari
+baca tutorial
+* github
+* AI
